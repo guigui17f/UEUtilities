@@ -1,4 +1,4 @@
-// Copyright guigui17f.
+// Copyright 2025 guigui17f. All Rights Reserved.
 
 #include "ControlFlowsSubsystem.h"
 #include "ControlFlow.h"
